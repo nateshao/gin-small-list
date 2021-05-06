@@ -40,7 +40,6 @@ func main() {
 
 	// 加载CSS文件
 	r.Static("/static", "static")
-
 	// 加载html文件
 	r.LoadHTMLGlob("templates/*")
 	// 创建路由
@@ -121,5 +120,4 @@ func main() {
 	}
 
 	r.Run()
-
 }
