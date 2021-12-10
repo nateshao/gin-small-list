@@ -5,6 +5,8 @@
 
 > 前端发请求，后端拿数据，gorm去做增删改查的一系列操作。
 
+![](https://repobeats.axiom.co/api/embed/cc802f295615409991b2e141a5159f1dd898507e.svg "Repobeats analytics image")
+
 ## 添加
 
 ![image-20210506233714094](https://nateshao-blog.oss-cn-shenzhen.aliyuncs.com/img/image-20210506233714094.png)
